@@ -8,6 +8,6 @@ Please to upload your part as it relates to
 
 ## Objectives
 
-- [] Report Completed
-- [] All Project Files Present
+- [ ] Report Completed
+- [ ] All Project Files Present
 
